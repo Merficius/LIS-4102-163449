@@ -6,8 +6,6 @@
 
 -   Each folder has the original reading file as well as my notes derived from it
 
----
-
 ## Methodology
 
 1. Underline the purpose/objective of the text, key ideas and conclusions
