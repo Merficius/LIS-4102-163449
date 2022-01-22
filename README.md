@@ -1,12 +1,14 @@
 # Readings
 
--   ## Readings are ordered in folders with numbers according to the time of assignment
+## General aspects
 
--   ## Each folder has the original reading file as well as my notes derived from it
+-   Readings are ordered in folders with numbers according to the time of assignment
+
+-   Each folder has the original reading file as well as my notes derived from it
 
 ---
 
-## The methodology with documents to read is the following:
+## Methodology
 
 1. Underline the purpose/objective of the text, key ideas and conclusions
 
