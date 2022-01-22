@@ -1,6 +1,6 @@
 # LIS-4102: Cloud Computing and Big Data
 
-## The repository has the following branches:
+## Branches
 
 -   main: Starting point
 
