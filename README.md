@@ -6,18 +6,16 @@
 
 -   Each folder has the original reading file as well as my notes derived from it
 
----
-
 ## Methodology
 
-1. Underline the purpose/objective of the text, key ideas and conclusions
+1. ![#FFFF00](https://via.placeholder.com/15/FFFF00?text=+) Underline the purpose/objective of the text, key ideas and conclusions
 
-2. According to the type of text:
+2. ![#00FF00](https://via.placeholder.com/15/00FF00?text=+) According to the type of text:
 
     - Survey/position: identify the problem/topic that is analysed, the analysis criteria, the methodology to analyse, interpretation of the analysis, conclusions
 
     - Proposal of a solution/system: problem statement, the principle of the solution, concrete results (system, model, algorithm), experimentation and assessment
 
-3. Identify references that seem interesting and key in the text
+3. ![#9B00FF](https://via.placeholder.com/15/9B00FF?text=+) Identify references that seem interesting and key in the text
 
-4. Google the authors
+4. ![#00FFFF](https://via.placeholder.com/15/00FFFF?text=+) Google the authors
