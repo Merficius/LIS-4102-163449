@@ -2,9 +2,11 @@
 
 ## General aspects
 
--   Readings are ordered in folders with numbers according to the time of assignment
+-   Readings are ordered in folders with numbers (1, 2, 3...) according to the time of assignment
 
 -   Each folder has the original reading file as well as my notes derived from it
+
+-   Folders may contain activities or extra readings
 
 ## Methodology
 
@@ -16,6 +18,6 @@
 
     - Proposal of a solution/system: problem statement, the principle of the solution, concrete results (system, model, algorithm), experimentation and assessment
 
-3. ![#9B00FF](https://via.placeholder.com/15/9B00FF?text=+) Identify references that seem interesting and key in the text
+3. ![#9B00FF](https://via.placeholder.com/15/9B00FF?text=+) Identify references that seem interesting and key in the text and provide the texts if found
 
 4. ![#00FFFF](https://via.placeholder.com/15/00FFFF?text=+) Google the authors
