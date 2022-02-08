@@ -21,3 +21,7 @@
 3. ![#9B00FF](https://via.placeholder.com/15/9B00FF?text=+) Identify references that seem interesting and key in the text and provide the texts if found
 
 4. ![#00FFFF](https://via.placeholder.com/15/00FFFF?text=+) Google the authors
+
+## Questionnaires
+
+-   [Reading 3 and 4](https://docs.google.com/forms/d/e/1FAIpQLSffEQ6RSrCFpBKfRuKqHWPrBURPPDneVlstOE0sKtIjA4FQqg/viewform?usp=sf_link)
