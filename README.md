@@ -5,3 +5,5 @@
 -   main: Starting point
 
 -   readings: Contains all the readings of the course as well as their analysis
+
+-   evaluations: Contains files corresponding to the activities that are evaluated
