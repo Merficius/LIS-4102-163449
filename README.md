@@ -1,7 +1,3 @@
-# LIS-4102: Cloud Computing and Big Data
+# Evaluations
 
-## Branches
-
--   main: Starting point
-
--   readings: Contains all the readings of the course as well as their analysis
+This branch contains all the evaluated activities for the course in their respective folders
